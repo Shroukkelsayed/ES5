@@ -32,4 +32,4 @@ Technologies
 ---
 Purpose
 
-This project was created to practice building a **clean and scalable backend folder structure using ES5 in Node.js**.
+This project was created to practice building a clean and scalable backend folder structure using ES5 in Node.js.
